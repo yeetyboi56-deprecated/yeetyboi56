@@ -11,7 +11,7 @@ My name is yeetyboi56, back-end software developer (mostly)
 👨‍💻 Confident at: JavaScript, Java  
 🔭 Working on: InviteCompass (discord bot)  
   
-📫 Contact me at: `yeet the turtle#4706` or `yeetyboi566@gmail.com`  
+📫 Contact me at: `yeet the turtle#4706` or `yeetyboi566@gmail.com` (you can also make an issue [here](https://github.com/yeetyboi56/yeetyboi56/issues))  
 
 <!--
 **yeetyboi56/yeetyboi56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
