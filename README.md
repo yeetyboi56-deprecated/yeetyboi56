@@ -1,4 +1,17 @@
-### Hi there 👋
+[![yeetyboi56's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeetyboi56)](https://github.com/yeetyboi56)
+
+### Hello there 👋 
+My name is yeetyboi56, back-end software developer (mostly)
+
+#### About me
+
+😄 Pronouns: He/Him  
+🌱 Learning: HTML5 & CSS3  
+  
+👨‍💻 Confident at: JavaScript, Java  
+🔭 Working on: InviteCompass (discord bot)  
+  
+📫 Contact me at: `yeet the turtle#4706` or `yeetyboi566@gmail.com`  
 
 <!--
 **yeetyboi56/yeetyboi56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
