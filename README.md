@@ -9,7 +9,7 @@ My name is yeetyboi56, back-end software developer (mostly)
 🌱 Learning: HTML5 & CSS3  
   
 👨‍💻 Confident at: JavaScript, Java  
-🔭 Working on: InviteCompass (discord bot)  
+🔭 Working on:
   
 📫 Contact me at: `yeet the turtle#4706` or `yeetyboi566@gmail.com` (you can also make an issue [here](https://github.com/yeetyboi56/yeetyboi56/issues))  
 
